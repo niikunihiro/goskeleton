@@ -1,0 +1,2 @@
+driverName: sqlite3
+dataSourceName: ./data/goskeleton.sql

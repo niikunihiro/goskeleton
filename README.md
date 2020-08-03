@@ -1,0 +1,5 @@
+Go Skeleton
+==
+
+example project
+
